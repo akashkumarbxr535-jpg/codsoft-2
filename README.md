@@ -1,6 +1,6 @@
 Welcome to the Titanic Survival Prediction project!
 
-This is a classic data science problem where we predict whether a passenger survived the Titanic disaster or not based on various features like age, gender, passenger class, and more. Whether you're a beginner or looking to sharpen your data science skills, this project is a great way to dive into machine learning and predictive modeling. 🤖📊
+This is a classic data science problem where we predict whether a passenger survived the Titanic disaster or not based on various features like age, gender, passenger class, and more. Whether you're a beginner or looking to sharpen your data science skills, this project is a great way to dive into machine learning and predictive modeling. 
 
  Objective
 
